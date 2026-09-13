@@ -3,8 +3,11 @@ Project Nexo is a remake of comoxyOG. There will be a new launcher, backend, dll
 
 Questions:
 **Why are you shutting down ComoxyOG?**
+
 The versions got too sloppy, glitchy, and bad.
+
 **Is Nexo gonna be Singleplayer or Multiplayer?**
+
 For now, Project Nexo is gonna be Singleplayer. Later on, it will be Multiplayer.
 
 # PROJECT NEXO 🎮
