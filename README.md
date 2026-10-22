@@ -11,11 +11,10 @@
 Go to the [Releases](https://github.com/comoxyOG/Project-Nexo/releases) page and download the latest launcher.
 
 ## Features
-- Fortnite Chapter 1 Season 6 (OG)
-- Custom launcher
-- Custom backend
-- Custom DLLs
-- Singleplayer (multiplayer coming later)
+- Fortnite Chapter 1 Season 6
+- Launcher
+- Backend
+- Multiplayer
 
 ## DISCORD
 Join for updates, help, and to play: https://discord.gg/5XSJFFPYJ
