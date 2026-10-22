@@ -23,7 +23,7 @@ Join for updates, help, and to play: https://discord.gg/5XSJFFPYJ
 ## FAQ
 
 **Is Nexo singleplayer or multiplayer?**
-For now, Project Nexo is singleplayer. Multiplayer will be added later.
+Yes! Project NEXO is multiplayer!
 
 **What happened to ComoxyOG?**
 Project Nexo is a remake of ComoxyOG. We shut down ComoxyOG multiplayer servers because the versions got too sloppy, glitchy, and bad. Thanks for being part of ComoxyOG.
