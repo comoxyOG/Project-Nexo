@@ -12,6 +12,7 @@ For now, Project Nexo is gonna be Singleplayer. Later on, it will be Multiplayer
 
 # PROJECT NEXO 🎮
 Project NEXO has released! (9/20/26)
+Project NEXO 1.0.4
 
 ## DISCORD:
 https://discord.gg/5XSJFFPYJ
