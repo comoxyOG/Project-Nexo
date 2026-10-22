@@ -11,6 +11,9 @@ The versions got too sloppy, glitchy, and bad.
 For now, Project Nexo is gonna be Singleplayer. Later on, it will be Multiplayer.
 
 # PROJECT NEXO 🎮
-Project Nexo will be planned to release around January or February of 2027.
+Project NEXO has released! (9/20/26)
+
+## DISCORD:
+https://discord.gg/5XSJFFPYJ
 
 *(this project is made by one person and one person only, Rfire_ on discord)*
