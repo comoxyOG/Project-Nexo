@@ -22,5 +22,9 @@ Nexo_Launcher.exe: d731bd2564229a2b3f2e3106c3561b98ffc48b4ba0b14176218d05153e32e
 redirect.dll: 34b6350593ed37d376441fde6900316a0075b1e4ae2ec7b27216649e6bf3dbad
 
 
+## VIRUS TOTAL:
+[https://www.virustotal.com/gui/file/d731bd2564229a2b3f2e3106c3561b98ffc48b4ba0b14176218d05153e32eb62?nocache=1](**LAUNCHER**)
+
+
 
 *(this project is made by one person and one person only, Rfire_ on discord)*
