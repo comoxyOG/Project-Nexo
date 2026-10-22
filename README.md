@@ -1,23 +1,31 @@
-# Project-Nexo
-Project Nexo is a remake of comoxyOG. There will be a new launcher, backend, dlls, and everything. We have shut down ComoxyOG multiplayer servers and we will now be making Project Nexo. Thanks for being apart of ComoxyOG.
+# Project Nexo 🎮 | Fortnite Chapter 1 Season 6 Private Server
 
-Questions:
-**Why are you shutting down ComoxyOG?**
+**Project Nexo is an OG Fortnite private server for Chapter 1 Season 6 (v6.xx).** It includes a custom launcher, backend, and DLLs, all built from scratch.
 
-The versions got too sloppy, glitchy, and bad.
+**Project NEXO has released! (9/20/26)**
+**Current version: Project NEXO 1.0.4**
 
-**Is Nexo gonna be Singleplayer or Multiplayer?**
+![Project Nexo screenshot](https://imgur.com/a/t9cnXKj
 
-For now, Project Nexo is gonna be Singleplayer. Later on, it will be Multiplayer.
+## Download
+Go to the [Releases](https://github.com/comoxyOG/Project-Nexo/releases) page and download the latest launcher.
 
-# PROJECT NEXO 🎮
-Project NEXO has released! (9/20/26)
-Project NEXO 1.0.4
+## Features
+- Fortnite Chapter 1 Season 6 (OG)
+- Custom launcher
+- Custom backend
+- Custom DLLs
+- Singleplayer (multiplayer coming later)
 
-## DISCORD:
-https://discord.gg/5XSJFFPYJ
+## DISCORD
+Join for updates, help, and to play: https://discord.gg/5XSJFFPYJ
 
+## FAQ
 
+**Is Nexo singleplayer or multiplayer?**
+For now, Project Nexo is singleplayer. Multiplayer will be added later.
 
+**What happened to ComoxyOG?**
+Project Nexo is a remake of ComoxyOG. We shut down ComoxyOG multiplayer servers because the versions got too sloppy, glitchy, and bad. Thanks for being part of ComoxyOG.
 
-*(this project is made by one person and one person only, Rfire_ on discord)*
+*(This project is made by one person only, Rfire_ on Discord)*
