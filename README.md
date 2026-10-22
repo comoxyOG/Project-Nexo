@@ -5,7 +5,7 @@
 **Project NEXO has released! (9/20/26)**
 **Current version: Project NEXO 1.0.4**
 
-![Project Nexo screenshot](https://imgur.com/efoJO5h)
+![Project Nexo screenshot](https://imgur.com/efoJO5h.png)
 
 ## Download
 Go to the [Releases](https://github.com/comoxyOG/Project-Nexo/releases) page and download the latest launcher.
