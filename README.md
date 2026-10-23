@@ -3,9 +3,9 @@
 **Project Nexo is an OG Fortnite private server for Chapter 1 Season 6 (v6.xx).** It includes a custom launcher, backend, and DLLs, all built from scratch.
 
 **Project NEXO has released! (9/20/26)**
-**Current version: Project NEXO 1.0.4**
+**Current version: Project NEXO 1.0.5**
 
-![Project Nexo screenshot](https://imgur.com/efoJO5h.png)
+![Project Nexo screenshot](https://imgur.com/KvEx0WD)
 
 ## Download
 Go to the [Releases](https://github.com/comoxyOG/Project-Nexo/releases) page and download the latest launcher.
