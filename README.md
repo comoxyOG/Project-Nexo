@@ -1,6 +1,6 @@
 # Project Nexo 🎮 | Fortnite Chapter 1 Season 6 Private Server
 
-**Project Nexo is an OG Fortnite private server for Chapter 1 Season 6 (v6.xx).** It includes a custom launcher, backend, and DLLs, all built from scratch.
+**Project Nexo is an OG Fortnite private server for Chapter 1 Season 6 (v6.21).** It includes a custom launcher, backend, and DLLs, all built from scratch.
 
 **Project NEXO has released! (9/20/26)**
 **Current version: Project NEXO 1.0.5**
